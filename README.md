@@ -49,7 +49,7 @@ The goal of this thesis is to compare traditional and machine learning models fo
 
 ---
 
-## 3. Repository Structure
+## 3. Repository Structure (Currently working on)
 
 ```text
 notebooks/

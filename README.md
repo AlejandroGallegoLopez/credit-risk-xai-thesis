@@ -75,4 +75,20 @@ reports/
 environment.yml / requirements.txt
 LICENSE
 .gitignore
+```
+--- 
 
+## 4. Academic Context
+
+- Bachelor Thesis in Mathematics & Statistics
+- Department of Economic Analysis, Universidad de Sevilla
+- Topic: credit risk scoring, model comparison, Monte Carlo validation, explainability and fairness.
+
+For the full thesis document or more technical details, feel free to contact me.
+
+## 5. Contact
+For collaboration or more details:
+- Author: Alejandro Gallego López
+- Email: alejandrogallegolopezz@gmail.com
+- Location: Sevilla, Spain
+- LinkedIn: https://www.linkedin.com/in/alejandro-gallego-l%C3%B3pez-46a226285/
